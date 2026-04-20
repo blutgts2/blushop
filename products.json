@@ -5387,12 +5387,12 @@
       "id": 691662,
       "salt": "8640b6a75037a",
       "path": "osrs-gold",
-      "name": "OSRS Gold",
+      "name": "1 MILLION > OSRS Gold",
       "price": null,
       "currency": "USD",
       "deliverables_type": "serials",
       "stock": null,
-      "group_id": 98125,
+      "group_id": 98127,
       "category_id": null,
       "type": "variant",
       "visibility": "public",
@@ -5436,8 +5436,8 @@
         }
       ],
       "group": {
-        "id": 98125,
-        "name": "DonutSMP"
+        "id": 98127,
+        "name": "Old School RuneScape"
       },
       "category": null,
       "pinned": false
@@ -5449,5 +5449,5 @@
     "subdomain": "blushop",
     "url": "https://blushop.mysellauth.com"
   },
-  "updated_at": "2026-04-20T22:53:32.497Z"
+  "updated_at": "2026-04-20T22:58:32.469Z"
 }
