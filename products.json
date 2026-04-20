@@ -154,7 +154,7 @@
           "name": "Product",
           "description": null,
           "price": "10.99",
-          "price_slash": null,
+          "price_slash": "19.99",
           "quantity_min": 1,
           "quantity_max": null,
           "volume_discounts": [],
@@ -5150,8 +5150,8 @@
     {
       "id": 691625,
       "salt": "7ebbaa7f33ffe",
-      "path": "x2-esok-sekolah-53qns",
-      "name": "X2 > ESOK SEKOLAH > 5.3QN/S",
+      "path": "esok-sekolah-53qns",
+      "name": "ESOK SEKOLAH > 5.3QN/S",
       "price": null,
       "currency": "USD",
       "deliverables_type": "serials",
@@ -5213,5 +5213,5 @@
     "subdomain": "blushop",
     "url": "https://blushop.mysellauth.com"
   },
-  "updated_at": "2026-04-20T22:18:32.424Z"
+  "updated_at": "2026-04-20T22:23:32.273Z"
 }
