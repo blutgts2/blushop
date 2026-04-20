@@ -4442,8 +4442,8 @@
     {
       "id": 691548,
       "salt": "52aaa5768430a",
-      "path": "100000-bucks-100-age-up-potions-full-access-account",
-      "name": "100,000+ Bucks > 100+ Age-up Potions > Full Access Account",
+      "path": "440k-800k-bucks-100-age-up-potions-full-access-account",
+      "name": "440k - 800k+ Bucks > 100+ Age-up Potions > Full Access Account",
       "price": null,
       "currency": "USD",
       "deliverables_type": "serials",
@@ -4460,7 +4460,7 @@
           "product_id": 691548,
           "name": "Product",
           "description": null,
-          "price": "3.99",
+          "price": "18.99",
           "price_slash": null,
           "quantity_min": 1,
           "quantity_max": null,
@@ -4475,7 +4475,81 @@
           "order": 0
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "id": 874320,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-20T21:03:30.000000Z",
+          "updated_at": "2026-04-20T21:03:30.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/874320.webp",
+          "pivot": {
+            "product_id": 691548,
+            "image_id": 874320,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 43553,
+        "name": "Game Accounts"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 691549,
+      "salt": "332111713744c",
+      "path": "roblox-2006-2008-full-access",
+      "name": "Roblox (2006-2008) | Full Access",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 43553,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1099613,
+          "product_id": 691549,
+          "name": "Product",
+          "description": null,
+          "price": "0.10",
+          "price_slash": null,
+          "quantity_min": 10,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 874321,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-20T21:06:08.000000Z",
+          "updated_at": "2026-04-20T21:06:08.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/874321.webp",
+          "pivot": {
+            "product_id": 691549,
+            "image_id": 874321,
+            "order": 0
+          }
+        }
+      ],
       "group": {
         "id": 43553,
         "name": "Game Accounts"
@@ -4484,11 +4558,11 @@
       "pinned": false
     }
   ],
-  "total": 76,
+  "total": 77,
   "shop": {
     "name": "blushop",
     "subdomain": "blushop",
     "url": "https://blushop.mysellauth.com"
   },
-  "updated_at": "2026-04-20T21:03:31.885Z"
+  "updated_at": "2026-04-20T21:08:31.843Z"
 }
