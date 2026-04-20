@@ -1531,7 +1531,7 @@
       "currency": "USD",
       "deliverables_type": "serials",
       "stock": null,
-      "group_id": 94433,
+      "group_id": 43553,
       "category_id": null,
       "type": "variant",
       "visibility": "public",
@@ -1575,8 +1575,8 @@
         }
       ],
       "group": {
-        "id": 94433,
-        "name": "Adopt Me"
+        "id": 43553,
+        "name": "Game Accounts"
       },
       "category": null
     },
@@ -3153,5 +3153,5 @@
     "subdomain": "blushop",
     "url": "https://blushop.mysellauth.com"
   },
-  "updated_at": "2026-04-20T19:08:32.156Z"
+  "updated_at": "2026-04-20T19:13:31.335Z"
 }
