@@ -4556,13 +4556,131 @@
       },
       "category": null,
       "pinned": false
+    },
+    {
+      "id": 691577,
+      "salt": "ee5da95745848",
+      "path": "blox-fruits-level-700-open-second-sea",
+      "name": "Blox Fruits > Level 700 > Open Second Sea",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 43553,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 2,
+      "variants": [
+        {
+          "id": 1099655,
+          "product_id": 691577,
+          "name": "Product",
+          "description": null,
+          "price": "1.00",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 2,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 874364,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-20T21:30:02.000000Z",
+          "updated_at": "2026-04-20T21:30:02.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/874364.webp",
+          "pivot": {
+            "product_id": 691577,
+            "image_id": 874364,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 43553,
+        "name": "Game Accounts"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 691581,
+      "salt": "0507ca3c110c9",
+      "path": "secret-los-tortus-500ks-in-inventory-full-access",
+      "name": "SECRET Los Tortus > 500K/s > IN INVENTORY > Full Access",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 43553,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 5,
+      "variants": [
+        {
+          "id": 1099665,
+          "product_id": 691581,
+          "name": "Product",
+          "description": null,
+          "price": "1.00",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 5,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 874372,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-20T21:32:19.000000Z",
+          "updated_at": "2026-04-20T21:32:19.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/874372.webp",
+          "pivot": {
+            "product_id": 691581,
+            "image_id": 874372,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 43553,
+        "name": "Game Accounts"
+      },
+      "category": null,
+      "pinned": false
     }
   ],
-  "total": 77,
+  "total": 79,
   "shop": {
     "name": "blushop",
     "subdomain": "blushop",
     "url": "https://blushop.mysellauth.com"
   },
-  "updated_at": "2026-04-20T21:28:31.850Z"
+  "updated_at": "2026-04-20T21:33:32.241Z"
 }
