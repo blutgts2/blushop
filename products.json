@@ -3494,13 +3494,72 @@
       },
       "category": null,
       "pinned": false
+    },
+    {
+      "id": 691484,
+      "salt": "842d90e0a5c1c",
+      "path": "unicorn",
+      "name": "Unicorn",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94433,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1099514,
+          "product_id": 691484,
+          "name": "Product",
+          "description": null,
+          "price": "1.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 874205,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-20T19:55:06.000000Z",
+          "updated_at": "2026-04-20T19:55:06.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/874205.webp",
+          "pivot": {
+            "product_id": 691484,
+            "image_id": 874205,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94433,
+        "name": "Adopt Me"
+      },
+      "category": null,
+      "pinned": false
     }
   ],
-  "total": 59,
+  "total": 60,
   "shop": {
     "name": "blushop",
     "subdomain": "blushop",
     "url": "https://blushop.mysellauth.com"
   },
-  "updated_at": "2026-04-20T19:53:31.895Z"
+  "updated_at": "2026-04-20T19:58:31.790Z"
 }
