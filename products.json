@@ -5463,7 +5463,7 @@
           "product_id": 691675,
           "name": "Product",
           "description": null,
-          "price": "0.03",
+          "price": "0.04",
           "price_slash": null,
           "quantity_min": 100,
           "quantity_max": null,
@@ -5626,5 +5626,5 @@
     "subdomain": "blushop",
     "url": "https://blushop.mysellauth.com"
   },
-  "updated_at": "2026-04-20T23:28:32.351Z"
+  "updated_at": "2026-04-20T23:33:32.455Z"
 }
