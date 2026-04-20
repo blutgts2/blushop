@@ -1,6 +1,3099 @@
 {
-  "products": [],
-  "total": 0,
-  "shop": {},
-  "updated_at": "2026-04-20T18:09:57.784Z"
+  "products": [
+    {
+      "id": 639889,
+      "salt": "4dac04f1b8a46",
+      "path": "nxo-menu",
+      "name": "NXO Menu",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 43946,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 2,
+      "stock_count": 1,
+      "variants": [
+        {
+          "id": 1005374,
+          "product_id": 639889,
+          "name": "LIFETIME Key",
+          "description": null,
+          "price": "19.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 1,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 802832,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-07T01:13:13.000000Z",
+          "updated_at": "2026-03-07T01:13:13.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/802832.webp",
+          "pivot": {
+            "product_id": 639889,
+            "image_id": 802832,
+            "order": 0
+          }
+        },
+        {
+          "id": 802833,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-07T01:13:24.000000Z",
+          "updated_at": "2026-03-07T01:13:24.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/802833.webp",
+          "pivot": {
+            "product_id": 639889,
+            "image_id": 802833,
+            "order": 1
+          }
+        }
+      ],
+      "group": {
+        "id": 43946,
+        "name": "Gorilla Tag"
+      },
+      "category": null
+    },
+    {
+      "id": 663128,
+      "salt": "c5fef0517942d",
+      "path": "fisch-c-1-billion-pure",
+      "name": "Fisch C$ - 1 Billion PURE",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94432,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1047554,
+          "product_id": 663128,
+          "name": "1 Billion Pure C$",
+          "description": null,
+          "price": "4.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834039,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-25T23:09:26.000000Z",
+          "updated_at": "2026-03-25T23:09:26.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834039.webp",
+          "pivot": {
+            "product_id": 663128,
+            "image_id": 834039,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94432,
+        "name": "Fisch"
+      },
+      "category": null
+    },
+    {
+      "id": 663134,
+      "salt": "1edb41fadb608",
+      "path": "endangered-egg",
+      "name": "Endangered Egg",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94433,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1047563,
+          "product_id": 663134,
+          "name": "Product",
+          "description": null,
+          "price": "0.10",
+          "price_slash": null,
+          "quantity_min": 10,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834052,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-25T23:21:12.000000Z",
+          "updated_at": "2026-03-25T23:21:12.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834052.webp",
+          "pivot": {
+            "product_id": 663134,
+            "image_id": 834052,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94433,
+        "name": "Adopt Me"
+      },
+      "category": null
+    },
+    {
+      "id": 663136,
+      "salt": "783eacd55acd7",
+      "path": "royal-egg",
+      "name": "Royal Egg",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94433,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1047565,
+          "product_id": 663136,
+          "name": "Product",
+          "description": null,
+          "price": "0.10",
+          "price_slash": null,
+          "quantity_min": 10,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834056,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-25T23:22:45.000000Z",
+          "updated_at": "2026-03-25T23:22:45.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834056.webp",
+          "pivot": {
+            "product_id": 663136,
+            "image_id": 834056,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94433,
+        "name": "Adopt Me"
+      },
+      "category": null
+    },
+    {
+      "id": 663137,
+      "salt": "ac97ff1b45769",
+      "path": "100-million-gems-pet-simulator-99",
+      "name": "100 Million Gems > Pet Simulator 99",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 75203,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1047566,
+          "product_id": 663137,
+          "name": "Product",
+          "description": null,
+          "price": "1.00",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834058,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-25T23:26:51.000000Z",
+          "updated_at": "2026-03-25T23:26:51.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834058.webp",
+          "pivot": {
+            "product_id": 663137,
+            "image_id": 834058,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 75203,
+        "name": "Pet Simulator 99"
+      },
+      "category": null
+    },
+    {
+      "id": 663138,
+      "salt": "e38b3aba68a2c",
+      "path": "1-billion-gems-pet-simulator-99",
+      "name": "1 Billion Gems > Pet Simulator 99",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 75203,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1047567,
+          "product_id": 663138,
+          "name": "Product",
+          "description": null,
+          "price": "5.95",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834058,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-25T23:26:51.000000Z",
+          "updated_at": "2026-03-25T23:26:51.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834058.webp",
+          "pivot": {
+            "product_id": 663138,
+            "image_id": 834058,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 75203,
+        "name": "Pet Simulator 99"
+      },
+      "category": null
+    },
+    {
+      "id": 663141,
+      "salt": "4ddc343e1bf9e",
+      "path": "random-steam-accounts-nfa",
+      "name": "Random Steam Accounts > NFA",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 43553,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 47,
+      "stock_count": 216,
+      "variants": [
+        {
+          "id": 1047570,
+          "product_id": 663141,
+          "name": "Product",
+          "description": null,
+          "price": "0.10",
+          "price_slash": null,
+          "quantity_min": 10,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 216,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 633502,
+          "cloudflare_image_id": "079205b8-c6d7-41e1-cd70-60023d547600",
+          "created_at": "2025-11-16T23:58:17.000000Z",
+          "updated_at": "2025-11-16T23:58:17.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/079205b8-c6d7-41e1-cd70-60023d547600/public",
+          "pivot": {
+            "product_id": 663141,
+            "image_id": 633502,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 43553,
+        "name": "Game Accounts"
+      },
+      "category": null
+    },
+    {
+      "id": 663144,
+      "salt": "0ace7b2e8b911",
+      "path": "south-park-pack-owned-4000-vbuck-pack-instant-delivery",
+      "name": "South Park Pack > OWNED 4000 vbuck PACK > Instant Delivery",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94434,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 1,
+      "variants": [
+        {
+          "id": 1047576,
+          "product_id": 663144,
+          "name": "Product",
+          "description": null,
+          "price": "7.95",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 1,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834066,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-25T23:36:14.000000Z",
+          "updated_at": "2026-03-25T23:36:14.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834066.webp",
+          "pivot": {
+            "product_id": 663144,
+            "image_id": 834066,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94434,
+        "name": "Fortnite"
+      },
+      "category": null
+    },
+    {
+      "id": 663149,
+      "salt": "1041fa8a18ffa",
+      "path": "nvpn",
+      "name": "Nord VPN - 1-2 Years > INSTANT DELIVERY",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94435,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 4,
+      "variants": [
+        {
+          "id": 1047586,
+          "product_id": 663149,
+          "name": "Product",
+          "description": null,
+          "price": "1.00",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 4,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834076,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-25T23:44:49.000000Z",
+          "updated_at": "2026-03-25T23:44:49.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834076.webp",
+          "pivot": {
+            "product_id": 663149,
+            "image_id": 834076,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94435,
+        "name": "Vpns"
+      },
+      "category": null
+    },
+    {
+      "id": 663154,
+      "salt": "1721ac7f1b1c8",
+      "path": "cyberghost-vpn-2-years",
+      "name": "CyberGhost VPN - 2 Years",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94435,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 192,
+      "variants": [
+        {
+          "id": 1047594,
+          "product_id": 663154,
+          "name": "Product",
+          "description": null,
+          "price": "5.15",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 192,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834090,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-25T23:52:32.000000Z",
+          "updated_at": "2026-03-25T23:52:32.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834090.webp",
+          "pivot": {
+            "product_id": 663154,
+            "image_id": 834090,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94435,
+        "name": "Vpns"
+      },
+      "category": null
+    },
+    {
+      "id": 663158,
+      "salt": "5eb3f9cb7e4a3",
+      "path": "norton-vpn-1-year",
+      "name": "Norton VPN - 1 Year",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94435,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 192,
+      "variants": [
+        {
+          "id": 1047604,
+          "product_id": 663158,
+          "name": "Product",
+          "description": null,
+          "price": "9.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 192,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834093,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-25T23:56:26.000000Z",
+          "updated_at": "2026-03-25T23:56:26.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834093.webp",
+          "pivot": {
+            "product_id": 663158,
+            "image_id": 834093,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94435,
+        "name": "Vpns"
+      },
+      "category": null
+    },
+    {
+      "id": 663159,
+      "salt": "cd70dc040d453",
+      "path": "ipvanish-vpn-1-year",
+      "name": "IPVanish VPN - 1 Year",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94435,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 192,
+      "variants": [
+        {
+          "id": 1047606,
+          "product_id": 663159,
+          "name": "Product",
+          "description": null,
+          "price": "4.25",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 192,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834095,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-25T23:57:27.000000Z",
+          "updated_at": "2026-03-25T23:57:27.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834095.webp",
+          "pivot": {
+            "product_id": 663159,
+            "image_id": 834095,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94435,
+        "name": "Vpns"
+      },
+      "category": null
+    },
+    {
+      "id": 663161,
+      "salt": "ffce8fdacb6cb",
+      "path": "blaze-grenade-blueprint",
+      "name": "Blaze Grenade Blueprint",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94436,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1047612,
+          "product_id": 663161,
+          "name": "Product",
+          "description": null,
+          "price": "1.00",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834100,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T00:00:13.000000Z",
+          "updated_at": "2026-03-26T00:00:13.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834100.webp",
+          "pivot": {
+            "product_id": 663161,
+            "image_id": 834100,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94436,
+        "name": "Arc Raiders"
+      },
+      "category": null
+    },
+    {
+      "id": 663162,
+      "salt": "cc0ff335f0f7d",
+      "path": "deadline-blueprint",
+      "name": "Deadline BLUEPRINT",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94436,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1047613,
+          "product_id": 663162,
+          "name": "Product",
+          "description": null,
+          "price": "1.00",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834101,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T00:02:14.000000Z",
+          "updated_at": "2026-03-26T00:02:14.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834101.webp",
+          "pivot": {
+            "product_id": 663162,
+            "image_id": 834101,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94436,
+        "name": "Arc Raiders"
+      },
+      "category": null
+    },
+    {
+      "id": 663163,
+      "salt": "214f632cb7d13",
+      "path": "2017-full-access-aged-account",
+      "name": "2017 > Full Access > Aged Account!",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 44567,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 192,
+      "variants": [
+        {
+          "id": 1047614,
+          "product_id": 663163,
+          "name": "Product",
+          "description": null,
+          "price": "6.15",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 192,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834106,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T00:04:53.000000Z",
+          "updated_at": "2026-03-26T00:04:53.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834106.webp",
+          "pivot": {
+            "product_id": 663163,
+            "image_id": 834106,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 44567,
+        "name": "Discord Products"
+      },
+      "category": null
+    },
+    {
+      "id": 663164,
+      "salt": "5bc6cd8c27dd7",
+      "path": "2016-full-access-aged-account",
+      "name": "2016 > Full Access > Aged Account!",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 44567,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 192,
+      "variants": [
+        {
+          "id": 1047615,
+          "product_id": 663164,
+          "name": "Product",
+          "description": null,
+          "price": "14.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 192,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834106,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T00:04:53.000000Z",
+          "updated_at": "2026-03-26T00:04:53.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834106.webp",
+          "pivot": {
+            "product_id": 663164,
+            "image_id": 834106,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 44567,
+        "name": "Discord Products"
+      },
+      "category": null
+    },
+    {
+      "id": 663165,
+      "salt": "9f16183602f49",
+      "path": "2018-full-access-aged-account",
+      "name": "2018 > Full Access > Aged Account!",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 44567,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 192,
+      "variants": [
+        {
+          "id": 1047617,
+          "product_id": 663165,
+          "name": "Product",
+          "description": null,
+          "price": "4.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 192,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834106,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T00:04:53.000000Z",
+          "updated_at": "2026-03-26T00:04:53.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834106.webp",
+          "pivot": {
+            "product_id": 663165,
+            "image_id": 834106,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 44567,
+        "name": "Discord Products"
+      },
+      "category": null
+    },
+    {
+      "id": 663166,
+      "salt": "4bca04eb99438",
+      "path": "2019-full-access-aged-account",
+      "name": "2019 > Full Access > Aged Account!",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 44567,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 192,
+      "variants": [
+        {
+          "id": 1047619,
+          "product_id": 663166,
+          "name": "Product",
+          "description": null,
+          "price": "4.90",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 192,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834106,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T00:04:53.000000Z",
+          "updated_at": "2026-03-26T00:04:53.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834106.webp",
+          "pivot": {
+            "product_id": 663166,
+            "image_id": 834106,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 44567,
+        "name": "Discord Products"
+      },
+      "category": null
+    },
+    {
+      "id": 663167,
+      "salt": "e06d4c2925fae",
+      "path": "3-month-nitro-premium-trial-code",
+      "name": "3 Month > Nitro Premium trial Code",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 44567,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1047621,
+          "product_id": 663167,
+          "name": "Product",
+          "description": null,
+          "price": "4.25",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834106,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T00:04:53.000000Z",
+          "updated_at": "2026-03-26T00:04:53.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834106.webp",
+          "pivot": {
+            "product_id": 663167,
+            "image_id": 834106,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 44567,
+        "name": "Discord Products"
+      },
+      "category": null
+    },
+    {
+      "id": 663170,
+      "salt": "04babc6e65e5f",
+      "path": "schedule-1-full-access",
+      "name": "Schedule 1 > Full Access",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 43553,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 192,
+      "variants": [
+        {
+          "id": 1047627,
+          "product_id": 663170,
+          "name": "Product",
+          "description": null,
+          "price": "12.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 192,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834123,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T00:12:54.000000Z",
+          "updated_at": "2026-03-26T00:12:54.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834123.webp",
+          "pivot": {
+            "product_id": 663170,
+            "image_id": 834123,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 43553,
+        "name": "Game Accounts"
+      },
+      "category": null
+    },
+    {
+      "id": 663174,
+      "salt": "28abf37b01f3e",
+      "path": "lethal-company-full-access",
+      "name": "Lethal Company > Full Access",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 43553,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 192,
+      "variants": [
+        {
+          "id": 1047631,
+          "product_id": 663174,
+          "name": "Product",
+          "description": null,
+          "price": "5.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 192,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834125,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T00:14:29.000000Z",
+          "updated_at": "2026-03-26T00:14:29.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834125.webp",
+          "pivot": {
+            "product_id": 663174,
+            "image_id": 834125,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 43553,
+        "name": "Game Accounts"
+      },
+      "category": null
+    },
+    {
+      "id": 663175,
+      "salt": "1111d5f58dc37",
+      "path": "-1sx-sheckles-grow-a-garden",
+      "name": "( 1SX ) Sheckles GROW A GARDEN",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 58633,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1047632,
+          "product_id": 663175,
+          "name": "Product",
+          "description": null,
+          "price": "0.10",
+          "price_slash": null,
+          "quantity_min": 10,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834130,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T00:15:58.000000Z",
+          "updated_at": "2026-03-26T00:15:58.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834130.webp",
+          "pivot": {
+            "product_id": 663175,
+            "image_id": 834130,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 58633,
+        "name": "Grow a Garden"
+      },
+      "category": null
+    },
+    {
+      "id": 663181,
+      "salt": "2f0fc62b0324c",
+      "path": "bunny-swirl",
+      "name": "Bunny Swirl",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94433,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1047643,
+          "product_id": 663181,
+          "name": "Product",
+          "description": null,
+          "price": "1.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834144,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T00:23:20.000000Z",
+          "updated_at": "2026-03-26T00:23:20.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834144.webp",
+          "pivot": {
+            "product_id": 663181,
+            "image_id": 834144,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94433,
+        "name": "Adopt Me"
+      },
+      "category": null
+    },
+    {
+      "id": 663182,
+      "salt": "fc26f89add4dd",
+      "path": "fivem-ready-account",
+      "name": "Fivem Ready Account",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 75043,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 192,
+      "variants": [
+        {
+          "id": 1047644,
+          "product_id": 663182,
+          "name": "Product",
+          "description": null,
+          "price": "1.00",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 192,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834153,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T00:26:26.000000Z",
+          "updated_at": "2026-03-26T00:26:26.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834153.webp",
+          "pivot": {
+            "product_id": 663182,
+            "image_id": 834153,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 75043,
+        "name": "Fivem"
+      },
+      "category": null
+    },
+    {
+      "id": 663185,
+      "salt": "27b67f074fac3",
+      "path": "randomized-titanic-pet-pet-simulator-99",
+      "name": "Randomized TITANIC Pet > Pet Simulator 99",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 75203,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1047647,
+          "product_id": 663185,
+          "name": "Product",
+          "description": null,
+          "price": "16.95",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834058,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-25T23:26:51.000000Z",
+          "updated_at": "2026-03-25T23:26:51.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834058.webp",
+          "pivot": {
+            "product_id": 663185,
+            "image_id": 834058,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 75203,
+        "name": "Pet Simulator 99"
+      },
+      "category": null
+    },
+    {
+      "id": 663188,
+      "salt": "f0fe6a3b2a7d2",
+      "path": "100000-bucks-100-age-up-potions-full-access-account",
+      "name": "100,000+ Bucks > 100+ Age-up Potions > Full Access Account",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94433,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1047650,
+          "product_id": 663188,
+          "name": "Product",
+          "description": null,
+          "price": "3.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834164,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T00:43:53.000000Z",
+          "updated_at": "2026-03-26T00:43:53.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834164.webp",
+          "pivot": {
+            "product_id": 663188,
+            "image_id": 834164,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94433,
+        "name": "Adopt Me"
+      },
+      "category": null
+    },
+    {
+      "id": 663533,
+      "salt": "7b64ebc8f1f4a",
+      "path": "roblox-140-days-full-access",
+      "name": "Roblox (140+ Days) | Full Access",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 43553,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1048354,
+          "product_id": 663533,
+          "name": "Product",
+          "description": null,
+          "price": "0.10",
+          "price_slash": null,
+          "quantity_min": 10,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834750,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T13:45:04.000000Z",
+          "updated_at": "2026-03-26T13:45:04.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834750.webp",
+          "pivot": {
+            "product_id": 663533,
+            "image_id": 834750,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 43553,
+        "name": "Game Accounts"
+      },
+      "category": null
+    },
+    {
+      "id": 663534,
+      "salt": "ebee8a6bdf4ff",
+      "path": "firstmailltd-emails-fresh-full-access",
+      "name": "Firstmail.ltd Emails - FRESH | Full Access",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94497,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 47040,
+      "variants": [
+        {
+          "id": 1048355,
+          "product_id": 663534,
+          "name": "Product",
+          "description": null,
+          "price": "0.01",
+          "price_slash": null,
+          "quantity_min": 100,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 47040,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834753,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T13:48:58.000000Z",
+          "updated_at": "2026-03-26T13:48:58.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834753.webp",
+          "pivot": {
+            "product_id": 663534,
+            "image_id": 834753,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94497,
+        "name": "Streaming Service's"
+      },
+      "category": null
+    },
+    {
+      "id": 663535,
+      "salt": "37268697434cf",
+      "path": "1000-tokens-trade-tokens",
+      "name": "1,000 Tokens > Trade Tokens",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 58633,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1048356,
+          "product_id": 663535,
+          "name": "Product",
+          "description": null,
+          "price": "2.15",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834759,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T13:52:42.000000Z",
+          "updated_at": "2026-03-26T13:52:42.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834759.webp",
+          "pivot": {
+            "product_id": 663535,
+            "image_id": 834759,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 58633,
+        "name": "Grow a Garden"
+      },
+      "category": null
+    },
+    {
+      "id": 663536,
+      "salt": "a6ee56047e835",
+      "path": "raccoon-pet",
+      "name": "Raccoon > Pet",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 58633,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 1,
+      "stock_count": 15679,
+      "variants": [
+        {
+          "id": 1048358,
+          "product_id": 663536,
+          "name": "Product",
+          "description": null,
+          "price": "2.89",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15679,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834760,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T13:54:04.000000Z",
+          "updated_at": "2026-03-26T13:54:04.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834760.webp",
+          "pivot": {
+            "product_id": 663536,
+            "image_id": 834760,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 58633,
+        "name": "Grow a Garden"
+      },
+      "category": null
+    },
+    {
+      "id": 663538,
+      "salt": "7c1f9e3f54037",
+      "path": "mimic-octopus-pet",
+      "name": "Mimic Octopus > Pet",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 58633,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1048361,
+          "product_id": 663538,
+          "name": "Product",
+          "description": null,
+          "price": "0.35",
+          "price_slash": null,
+          "quantity_min": 3,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834761,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T13:55:08.000000Z",
+          "updated_at": "2026-03-26T13:55:08.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834761.webp",
+          "pivot": {
+            "product_id": 663538,
+            "image_id": 834761,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 58633,
+        "name": "Grow a Garden"
+      },
+      "category": null
+    },
+    {
+      "id": 663539,
+      "salt": "21ed42a3d6e8e",
+      "path": "queen-bee-pet",
+      "name": "Queen bee > Pet",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 58633,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1048362,
+          "product_id": 663539,
+          "name": "Product",
+          "description": null,
+          "price": "0.40",
+          "price_slash": null,
+          "quantity_min": 3,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834802,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T13:56:20.000000Z",
+          "updated_at": "2026-03-26T13:56:20.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834802.webp",
+          "pivot": {
+            "product_id": 663539,
+            "image_id": 834802,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 58633,
+        "name": "Grow a Garden"
+      },
+      "category": null
+    },
+    {
+      "id": 663541,
+      "salt": "f5028163bdfb8",
+      "path": "dragonfly-pet",
+      "name": "Dragonfly > Pet",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 58633,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1048365,
+          "product_id": 663541,
+          "name": "Product",
+          "description": null,
+          "price": "0.20",
+          "price_slash": null,
+          "quantity_min": 5,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834805,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T13:58:32.000000Z",
+          "updated_at": "2026-03-26T13:58:32.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834805.webp",
+          "pivot": {
+            "product_id": 663541,
+            "image_id": 834805,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 58633,
+        "name": "Grow a Garden"
+      },
+      "category": null
+    },
+    {
+      "id": 663544,
+      "salt": "0153524a2b701",
+      "path": "griffin-pet",
+      "name": "Griffin > Pet",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 58633,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1048370,
+          "product_id": 663544,
+          "name": "Product",
+          "description": null,
+          "price": "0.05",
+          "price_slash": null,
+          "quantity_min": 25,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834810,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T14:00:32.000000Z",
+          "updated_at": "2026-03-26T14:00:32.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834810.webp",
+          "pivot": {
+            "product_id": 663544,
+            "image_id": 834810,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 58633,
+        "name": "Grow a Garden"
+      },
+      "category": null
+    },
+    {
+      "id": 663547,
+      "salt": "993f62aa17eb3",
+      "path": "cockatrice-pet",
+      "name": "Cockatrice > Pet",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 58633,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1048373,
+          "product_id": 663547,
+          "name": "Product",
+          "description": null,
+          "price": "0.09",
+          "price_slash": null,
+          "quantity_min": 12,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834812,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T14:01:40.000000Z",
+          "updated_at": "2026-03-26T14:01:40.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834812.webp",
+          "pivot": {
+            "product_id": 663547,
+            "image_id": 834812,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 58633,
+        "name": "Grow a Garden"
+      },
+      "category": null
+    },
+    {
+      "id": 663557,
+      "salt": "94c1fb9c14b2b",
+      "path": "steam-assetto-corsa-full-access-fast-delivery",
+      "name": "[STEAM] Assetto Corsa | Full Access | Fast Delivery",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 43553,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 192,
+      "variants": [
+        {
+          "id": 1048395,
+          "product_id": 663557,
+          "name": "Product",
+          "description": null,
+          "price": "3.15",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 192,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834827,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T14:13:48.000000Z",
+          "updated_at": "2026-03-26T14:13:48.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834827.webp",
+          "pivot": {
+            "product_id": 663557,
+            "image_id": 834827,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 43553,
+        "name": "Game Accounts"
+      },
+      "category": null
+    },
+    {
+      "id": 663559,
+      "salt": "4be797795d767",
+      "path": "steam-assetto-corsa-ultimate-full-access-fast-delivery",
+      "name": "[STEAM] Assetto Corsa ULTIMATE | Full Access | Fast Delivery",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 43553,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 192,
+      "variants": [
+        {
+          "id": 1048397,
+          "product_id": 663559,
+          "name": "Product",
+          "description": null,
+          "price": "17.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 192,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834828,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T14:15:48.000000Z",
+          "updated_at": "2026-03-26T14:15:48.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834828.webp",
+          "pivot": {
+            "product_id": 663559,
+            "image_id": 834828,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 43553,
+        "name": "Game Accounts"
+      },
+      "category": null
+    },
+    {
+      "id": 663572,
+      "salt": "f98a2fafde613",
+      "path": "14x-server-boosts-1-month-",
+      "name": "14x Server Boosts [ 1 month ]",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 44567,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1048421,
+          "product_id": 663572,
+          "name": "Product",
+          "description": null,
+          "price": "5.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834845,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T14:49:04.000000Z",
+          "updated_at": "2026-03-26T14:49:04.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834845.webp",
+          "pivot": {
+            "product_id": 663572,
+            "image_id": 834845,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 44567,
+        "name": "Discord Products"
+      },
+      "category": null
+    },
+    {
+      "id": 663575,
+      "salt": "6d365e9ffcd4d",
+      "path": "14x-server-boosts-3-month-",
+      "name": "14x Server Boosts [ 3 month ]",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 44567,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1048426,
+          "product_id": 663575,
+          "name": "Product",
+          "description": null,
+          "price": "12.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834845,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T14:49:04.000000Z",
+          "updated_at": "2026-03-26T14:49:04.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834845.webp",
+          "pivot": {
+            "product_id": 663575,
+            "image_id": 834845,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 44567,
+        "name": "Discord Products"
+      },
+      "category": null
+    },
+    {
+      "id": 663582,
+      "salt": "15d5dfe2716a7",
+      "path": "theme-1-sellauth",
+      "name": "Theme 1 [SELLAUTH]",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94508,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 90,
+      "variants": [
+        {
+          "id": 1048436,
+          "product_id": 663582,
+          "name": "Product",
+          "description": null,
+          "price": "19.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": 2,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 90,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834867,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T15:09:24.000000Z",
+          "updated_at": "2026-03-26T15:09:24.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834867.webp",
+          "pivot": {
+            "product_id": 663582,
+            "image_id": 834867,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94508,
+        "name": "Sellauth Templates"
+      },
+      "category": null
+    },
+    {
+      "id": 663591,
+      "salt": "b05d32dc7adf4",
+      "path": "theme-2-sellauth",
+      "name": "Theme 2 [SELLAUTH]",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94508,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 90,
+      "variants": [
+        {
+          "id": 1048447,
+          "product_id": 663591,
+          "name": "Product",
+          "description": null,
+          "price": "19.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 90,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834869,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T15:11:02.000000Z",
+          "updated_at": "2026-03-26T15:11:02.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834869.webp",
+          "pivot": {
+            "product_id": 663591,
+            "image_id": 834869,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94508,
+        "name": "Sellauth Templates"
+      },
+      "category": null
+    },
+    {
+      "id": 663593,
+      "salt": "4a17a8617b6be",
+      "path": "theme-3-sellauth",
+      "name": "Theme 3 [SELLAUTH]",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94508,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 90,
+      "variants": [
+        {
+          "id": 1048449,
+          "product_id": 663593,
+          "name": "Product",
+          "description": null,
+          "price": "19.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 90,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834870,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T15:11:50.000000Z",
+          "updated_at": "2026-03-26T15:11:50.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834870.webp",
+          "pivot": {
+            "product_id": 663593,
+            "image_id": 834870,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94508,
+        "name": "Sellauth Templates"
+      },
+      "category": null
+    },
+    {
+      "id": 663599,
+      "salt": "fde17cc5b80b7",
+      "path": "cs2-1000-hours-full-access",
+      "name": "CS2 > 1000+ Hours > Full Access",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 43553,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 90,
+      "variants": [
+        {
+          "id": 1048475,
+          "product_id": 663599,
+          "name": "Product",
+          "description": null,
+          "price": "1.89",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 90,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834881,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T15:25:03.000000Z",
+          "updated_at": "2026-03-26T15:25:03.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834881.webp",
+          "pivot": {
+            "product_id": 663599,
+            "image_id": 834881,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 43553,
+        "name": "Game Accounts"
+      },
+      "category": null
+    },
+    {
+      "id": 663612,
+      "salt": "8ab4784935e6e",
+      "path": "blushop-vendors",
+      "name": "BluShop Vendors",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94514,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 100,
+      "variants": [
+        {
+          "id": 1048496,
+          "product_id": 663612,
+          "name": "Product",
+          "description": null,
+          "price": "10.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 100,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834900,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T15:29:22.000000Z",
+          "updated_at": "2026-03-26T15:29:22.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834900.webp",
+          "pivot": {
+            "product_id": 663612,
+            "image_id": 834900,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94514,
+        "name": "BluShop Service's"
+      },
+      "category": null
+    },
+    {
+      "id": 663655,
+      "salt": "cf160d219b14e",
+      "path": "tiktok-1000-followers",
+      "name": "Tiktok > 1,000 Followers",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94497,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 47040,
+      "variants": [
+        {
+          "id": 1048565,
+          "product_id": 663655,
+          "name": "Product",
+          "description": null,
+          "price": "8.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 47040,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834963,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T16:12:55.000000Z",
+          "updated_at": "2026-03-26T16:12:55.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834963.webp",
+          "pivot": {
+            "product_id": 663655,
+            "image_id": 834963,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94497,
+        "name": "Streaming Service's"
+      },
+      "category": null
+    },
+    {
+      "id": 663662,
+      "salt": "67667e80950ad",
+      "path": "tiktok-10000-followers",
+      "name": "Tiktok > 10,000 Followers",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94497,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 47040,
+      "variants": [
+        {
+          "id": 1048572,
+          "product_id": 663662,
+          "name": "Product",
+          "description": null,
+          "price": "28.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 47040,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834963,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T16:12:55.000000Z",
+          "updated_at": "2026-03-26T16:12:55.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834963.webp",
+          "pivot": {
+            "product_id": 663662,
+            "image_id": 834963,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94497,
+        "name": "Streaming Service's"
+      },
+      "category": null
+    },
+    {
+      "id": 663666,
+      "salt": "9a15785474d5c",
+      "path": "tiktok-10000-post-likes",
+      "name": "Tiktok > 10,000 Post Likes",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94497,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 47040,
+      "variants": [
+        {
+          "id": 1048576,
+          "product_id": 663666,
+          "name": "Product",
+          "description": null,
+          "price": "1.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 47040,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834963,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T16:12:55.000000Z",
+          "updated_at": "2026-03-26T16:12:55.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834963.webp",
+          "pivot": {
+            "product_id": 663666,
+            "image_id": 834963,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94497,
+        "name": "Streaming Service's"
+      },
+      "category": null
+    },
+    {
+      "id": 663676,
+      "salt": "d559a9231d2da",
+      "path": "tiktok-100000-post-likes",
+      "name": "Tiktok > 100,000 Post Likes",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94497,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 47040,
+      "variants": [
+        {
+          "id": 1048586,
+          "product_id": 663676,
+          "name": "Product",
+          "description": null,
+          "price": "9.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 47040,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834963,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T16:12:55.000000Z",
+          "updated_at": "2026-03-26T16:12:55.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834963.webp",
+          "pivot": {
+            "product_id": 663676,
+            "image_id": 834963,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94497,
+        "name": "Streaming Service's"
+      },
+      "category": null
+    },
+    {
+      "id": 663677,
+      "salt": "801afa426a0bb",
+      "path": "tiktok-10000-post-views",
+      "name": "Tiktok > 10,000 Post Views",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94497,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 47040,
+      "variants": [
+        {
+          "id": 1048587,
+          "product_id": 663677,
+          "name": "Product",
+          "description": null,
+          "price": "1.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 47040,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834963,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T16:12:55.000000Z",
+          "updated_at": "2026-03-26T16:12:55.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834963.webp",
+          "pivot": {
+            "product_id": 663677,
+            "image_id": 834963,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94497,
+        "name": "Streaming Service's"
+      },
+      "category": null
+    },
+    {
+      "id": 663679,
+      "salt": "6ed8a150f646c",
+      "path": "tiktok-100000-post-views",
+      "name": "Tiktok > 100,000 Post Views",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94497,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 47040,
+      "variants": [
+        {
+          "id": 1048589,
+          "product_id": 663679,
+          "name": "Product",
+          "description": null,
+          "price": "4.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 47040,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834963,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T16:12:55.000000Z",
+          "updated_at": "2026-03-26T16:12:55.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834963.webp",
+          "pivot": {
+            "product_id": 663679,
+            "image_id": 834963,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94497,
+        "name": "Streaming Service's"
+      },
+      "category": null
+    },
+    {
+      "id": 663681,
+      "salt": "88dca15a2f3e7",
+      "path": "tiktok-1000000-post-views",
+      "name": "Tiktok > 1,000,000 Post Views",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94497,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 47040,
+      "variants": [
+        {
+          "id": 1048591,
+          "product_id": 663681,
+          "name": "Product",
+          "description": null,
+          "price": "18.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 47040,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834963,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T16:12:55.000000Z",
+          "updated_at": "2026-03-26T16:12:55.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834963.webp",
+          "pivot": {
+            "product_id": 663681,
+            "image_id": 834963,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94497,
+        "name": "Streaming Service's"
+      },
+      "category": null
+    },
+    {
+      "id": 663682,
+      "salt": "33486886bb8bf",
+      "path": "105000-coins-familiar-duck-15x",
+      "name": "105,000 COINS > Familiar Duck > 15x",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94436,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1048592,
+          "product_id": 663682,
+          "name": "Product",
+          "description": null,
+          "price": "1.00",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834972,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T16:25:11.000000Z",
+          "updated_at": "2026-03-26T16:25:11.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834972.webp",
+          "pivot": {
+            "product_id": 663682,
+            "image_id": 834972,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94436,
+        "name": "Arc Raiders"
+      },
+      "category": null
+    },
+    {
+      "id": 663685,
+      "salt": "e37c6d77feb6e",
+      "path": "1000000-coins-familiar-duck-150x-arc-raiders",
+      "name": "1,000,000 COINS > Familiar Duck > 150x > Arc Raiders",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94436,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1048598,
+          "product_id": 663685,
+          "name": "Product",
+          "description": null,
+          "price": "6.25",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 834972,
+          "cloudflare_image_id": null,
+          "created_at": "2026-03-26T16:25:11.000000Z",
+          "updated_at": "2026-03-26T16:25:11.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/834972.webp",
+          "pivot": {
+            "product_id": 663685,
+            "image_id": 834972,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94436,
+        "name": "Arc Raiders"
+      },
+      "category": null
+    }
+  ],
+  "total": 53,
+  "shop": {
+    "name": "blushop",
+    "subdomain": "blushop",
+    "url": "https://shop.blushop.net"
+  },
+  "updated_at": "2026-04-20T18:11:48.932Z"
 }
