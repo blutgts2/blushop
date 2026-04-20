@@ -4519,9 +4519,9 @@
           "product_id": 691549,
           "name": "Product",
           "description": null,
-          "price": "0.10",
+          "price": "6.99",
           "price_slash": null,
-          "quantity_min": 10,
+          "quantity_min": 1,
           "quantity_max": null,
           "volume_discounts": [],
           "disable_volume_discounts_if_coupon": false,
@@ -4564,5 +4564,5 @@
     "subdomain": "blushop",
     "url": "https://blushop.mysellauth.com"
   },
-  "updated_at": "2026-04-20T21:23:31.896Z"
+  "updated_at": "2026-04-20T21:28:31.850Z"
 }
