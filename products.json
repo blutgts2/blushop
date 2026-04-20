@@ -5480,16 +5480,16 @@
       ],
       "images": [
         {
-          "id": 874561,
+          "id": 874606,
           "cloudflare_image_id": null,
-          "created_at": "2026-04-20T22:59:22.000000Z",
-          "updated_at": "2026-04-20T22:59:22.000000Z",
+          "created_at": "2026-04-20T23:25:36.000000Z",
+          "updated_at": "2026-04-20T23:25:36.000000Z",
           "deleted_at": null,
           "shop_id": 143421,
-          "url": "https://api.sellauth.com/storage/images/874561.webp",
+          "url": "https://api.sellauth.com/storage/images/874606.webp",
           "pivot": {
             "product_id": 691675,
-            "image_id": 874561,
+            "image_id": 874606,
             "order": 0
           }
         }
@@ -5505,7 +5505,7 @@
       "id": 691680,
       "salt": "a5a2bdb0c5181",
       "path": "frost-relic",
-      "name": "500X Frost Relic",
+      "name": "Frost Relic",
       "price": null,
       "currency": "USD",
       "deliverables_type": "serials",
@@ -5522,7 +5522,7 @@
           "product_id": 691680,
           "name": "Product",
           "description": null,
-          "price": "0.03",
+          "price": "0.01",
           "price_slash": null,
           "quantity_min": 100,
           "quantity_max": null,
@@ -5539,16 +5539,16 @@
       ],
       "images": [
         {
-          "id": 874570,
+          "id": 874577,
           "cloudflare_image_id": null,
-          "created_at": "2026-04-20T23:02:42.000000Z",
-          "updated_at": "2026-04-20T23:02:42.000000Z",
+          "created_at": "2026-04-20T23:06:43.000000Z",
+          "updated_at": "2026-04-20T23:06:43.000000Z",
           "deleted_at": null,
           "shop_id": 143421,
-          "url": "https://api.sellauth.com/storage/images/874570.webp",
+          "url": "https://api.sellauth.com/storage/images/874577.webp",
           "pivot": {
             "product_id": 691680,
-            "image_id": 874570,
+            "image_id": 874577,
             "order": 0
           }
         }
@@ -5626,5 +5626,5 @@
     "subdomain": "blushop",
     "url": "https://blushop.mysellauth.com"
   },
-  "updated_at": "2026-04-20T23:23:32.457Z"
+  "updated_at": "2026-04-20T23:28:32.351Z"
 }
