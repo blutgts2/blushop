@@ -5441,13 +5441,131 @@
       },
       "category": null,
       "pinned": false
+    },
+    {
+      "id": 691675,
+      "salt": "6eb82f59a3013",
+      "path": "aura-crate",
+      "name": "Aura Crate",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 98129,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1099887,
+          "product_id": 691675,
+          "name": "Product",
+          "description": null,
+          "price": "0.03",
+          "price_slash": null,
+          "quantity_min": 100,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 874561,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-20T22:59:22.000000Z",
+          "updated_at": "2026-04-20T22:59:22.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/874561.webp",
+          "pivot": {
+            "product_id": 691675,
+            "image_id": 874561,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 98129,
+        "name": "Sailor Piece"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 691680,
+      "salt": "a5a2bdb0c5181",
+      "path": "frost-relic",
+      "name": "Frost Relic",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 98129,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1099898,
+          "product_id": 691680,
+          "name": "Product",
+          "description": null,
+          "price": "0.03",
+          "price_slash": null,
+          "quantity_min": 100,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 874570,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-20T23:02:42.000000Z",
+          "updated_at": "2026-04-20T23:02:42.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/874570.webp",
+          "pivot": {
+            "product_id": 691680,
+            "image_id": 874570,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 98129,
+        "name": "Sailor Piece"
+      },
+      "category": null,
+      "pinned": false
     }
   ],
-  "total": 92,
+  "total": 94,
   "shop": {
     "name": "blushop",
     "subdomain": "blushop",
     "url": "https://blushop.mysellauth.com"
   },
-  "updated_at": "2026-04-20T22:58:32.469Z"
+  "updated_at": "2026-04-20T23:03:32.310Z"
 }
