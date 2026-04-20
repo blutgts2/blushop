@@ -5505,7 +5505,7 @@
       "id": 691680,
       "salt": "a5a2bdb0c5181",
       "path": "frost-relic",
-      "name": "Frost Relic",
+      "name": "500X Frost Relic",
       "price": null,
       "currency": "USD",
       "deliverables_type": "serials",
@@ -5559,13 +5559,72 @@
       },
       "category": null,
       "pinned": false
+    },
+    {
+      "id": 691685,
+      "salt": "6ca7ac569d378",
+      "path": "50000-clan-reroll",
+      "name": "50000 Clan Reroll",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 98129,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1099905,
+          "product_id": 691685,
+          "name": "Product",
+          "description": null,
+          "price": "2.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 874574,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-20T23:05:43.000000Z",
+          "updated_at": "2026-04-20T23:05:43.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/874574.webp",
+          "pivot": {
+            "product_id": 691685,
+            "image_id": 874574,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 98129,
+        "name": "Sailor Piece"
+      },
+      "category": null,
+      "pinned": false
     }
   ],
-  "total": 94,
+  "total": 95,
   "shop": {
     "name": "blushop",
     "subdomain": "blushop",
     "url": "https://blushop.mysellauth.com"
   },
-  "updated_at": "2026-04-20T23:03:32.310Z"
+  "updated_at": "2026-04-20T23:08:32.361Z"
 }
