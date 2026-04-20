@@ -288,16 +288,16 @@
       ],
       "images": [
         {
-          "id": 834052,
+          "id": 874195,
           "cloudflare_image_id": null,
-          "created_at": "2026-03-25T23:21:12.000000Z",
-          "updated_at": "2026-03-25T23:21:12.000000Z",
+          "created_at": "2026-04-20T19:47:34.000000Z",
+          "updated_at": "2026-04-20T19:47:34.000000Z",
           "deleted_at": null,
           "shop_id": 143421,
-          "url": "https://api.sellauth.com/storage/images/834052.webp",
+          "url": "https://api.sellauth.com/storage/images/874195.webp",
           "pivot": {
             "product_id": 663134,
-            "image_id": 834052,
+            "image_id": 874195,
             "order": 0
           }
         }
@@ -937,16 +937,16 @@
       ],
       "images": [
         {
-          "id": 834101,
+          "id": 874192,
           "cloudflare_image_id": null,
-          "created_at": "2026-03-26T00:02:14.000000Z",
-          "updated_at": "2026-03-26T00:02:14.000000Z",
+          "created_at": "2026-04-20T19:46:22.000000Z",
+          "updated_at": "2026-04-20T19:46:22.000000Z",
           "deleted_at": null,
           "shop_id": 143421,
-          "url": "https://api.sellauth.com/storage/images/834101.webp",
+          "url": "https://api.sellauth.com/storage/images/874192.webp",
           "pivot": {
             "product_id": 663162,
-            "image_id": 834101,
+            "image_id": 874192,
             "order": 0
           }
         }
@@ -3120,16 +3120,16 @@
       ],
       "images": [
         {
-          "id": 834972,
+          "id": 874193,
           "cloudflare_image_id": null,
-          "created_at": "2026-03-26T16:25:11.000000Z",
-          "updated_at": "2026-03-26T16:25:11.000000Z",
+          "created_at": "2026-04-20T19:46:50.000000Z",
+          "updated_at": "2026-04-20T19:46:50.000000Z",
           "deleted_at": null,
           "shop_id": 143421,
-          "url": "https://api.sellauth.com/storage/images/834972.webp",
+          "url": "https://api.sellauth.com/storage/images/874193.webp",
           "pivot": {
             "product_id": 663682,
-            "image_id": 834972,
+            "image_id": 874193,
             "order": 0
           }
         }
@@ -3179,16 +3179,16 @@
       ],
       "images": [
         {
-          "id": 834972,
+          "id": 874193,
           "cloudflare_image_id": null,
-          "created_at": "2026-03-26T16:25:11.000000Z",
-          "updated_at": "2026-03-26T16:25:11.000000Z",
+          "created_at": "2026-04-20T19:46:50.000000Z",
+          "updated_at": "2026-04-20T19:46:50.000000Z",
           "deleted_at": null,
           "shop_id": 143421,
-          "url": "https://api.sellauth.com/storage/images/834972.webp",
+          "url": "https://api.sellauth.com/storage/images/874193.webp",
           "pivot": {
             "product_id": 663685,
-            "image_id": 834972,
+            "image_id": 874193,
             "order": 0
           }
         }
@@ -3317,13 +3317,116 @@
       },
       "category": null,
       "pinned": false
+    },
+    {
+      "id": 691469,
+      "salt": "46e79b46f0458",
+      "path": "metal-parts-arc-raiders",
+      "name": "Metal parts > Arc Raiders",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94436,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 62720,
+      "variants": [
+        {
+          "id": 1099492,
+          "product_id": 691469,
+          "name": "Product",
+          "description": null,
+          "price": "0.01",
+          "price_slash": null,
+          "quantity_min": 100,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 62720,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 874186,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-20T19:43:53.000000Z",
+          "updated_at": "2026-04-20T19:43:53.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/874186.webp",
+          "pivot": {
+            "product_id": 691469,
+            "image_id": 874186,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94436,
+        "name": "Arc Raiders"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 691473,
+      "salt": "8c1f468edb1b1",
+      "path": "bunny-swirl",
+      "name": "Bunny Swirl",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94433,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1099497,
+          "product_id": 691473,
+          "name": "Product",
+          "description": null,
+          "price": "1.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [],
+      "group": {
+        "id": 94433,
+        "name": "Adopt Me"
+      },
+      "category": null,
+      "pinned": false
     }
   ],
-  "total": 56,
+  "total": 58,
   "shop": {
     "name": "blushop",
     "subdomain": "blushop",
     "url": "https://blushop.mysellauth.com"
   },
-  "updated_at": "2026-04-20T19:43:32.055Z"
+  "updated_at": "2026-04-20T19:48:31.640Z"
 }
