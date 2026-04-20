@@ -3671,13 +3671,234 @@
       },
       "category": null,
       "pinned": false
+    },
+    {
+      "id": 691519,
+      "salt": "36e1998ef7755",
+      "path": "icewing",
+      "name": "Icewing",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 98107,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1099574,
+          "product_id": 691519,
+          "name": "Product",
+          "description": null,
+          "price": "1.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": 9999,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 874263,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-20T20:35:24.000000Z",
+          "updated_at": "2026-04-20T20:35:24.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/874263.webp",
+          "pivot": {
+            "product_id": 691519,
+            "image_id": 874263,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 98107,
+        "name": "Murder Mystery 2"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 691522,
+      "salt": "9a8df132ca590",
+      "path": "icepiercer",
+      "name": "Icepiercer",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 98107,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1099577,
+          "product_id": 691522,
+          "name": "Product",
+          "description": null,
+          "price": "13.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": 999,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 874264,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-20T20:36:23.000000Z",
+          "updated_at": "2026-04-20T20:36:23.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/874264.webp",
+          "pivot": {
+            "product_id": 691522,
+            "image_id": 874264,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 98107,
+        "name": "Murder Mystery 2"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 691523,
+      "salt": "3baf5b5f9b73c",
+      "path": "harvester",
+      "name": "Harvester",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 98107,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1099578,
+          "product_id": 691523,
+          "name": "Product",
+          "description": null,
+          "price": "14.25",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": 999,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 874265,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-20T20:37:53.000000Z",
+          "updated_at": "2026-04-20T20:37:53.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/874265.webp",
+          "pivot": {
+            "product_id": 691523,
+            "image_id": 874265,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 98107,
+        "name": "Murder Mystery 2"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 691524,
+      "salt": "5fe7354b24c07",
+      "path": "harvester",
+      "name": "Harvester",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 98107,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1099579,
+          "product_id": 691524,
+          "name": "Product",
+          "description": null,
+          "price": "14.25",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": 999,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [],
+      "group": {
+        "id": 98107,
+        "name": "Murder Mystery 2"
+      },
+      "category": null,
+      "pinned": false
     }
   ],
-  "total": 62,
+  "total": 66,
   "shop": {
     "name": "blushop",
     "subdomain": "blushop",
     "url": "https://blushop.mysellauth.com"
   },
-  "updated_at": "2026-04-20T20:33:31.720Z"
+  "updated_at": "2026-04-20T20:38:31.749Z"
 }
