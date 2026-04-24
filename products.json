@@ -2347,7 +2347,16 @@
           "redirect_url": null,
           "stock": 15680,
           "instructions": null,
-          "disabled_payment_method_ids": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            90846,
+            106655,
+            107836,
+            108222,
+            125604
+          ],
           "order": 0
         }
       ],
@@ -2406,7 +2415,16 @@
           "redirect_url": null,
           "stock": 15680,
           "instructions": null,
-          "disabled_payment_method_ids": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            90846,
+            106655,
+            107836,
+            108222,
+            125604
+          ],
           "order": 0
         }
       ],
@@ -5784,8 +5802,8 @@
     {
       "id": 694922,
       "salt": "d0fcad856afdc",
-      "path": "14x-server-boosts-1-month-",
-      "name": "14x Server Boosts [ 1 month ]",
+      "path": "2x-server-boosts-1-month-",
+      "name": "2x Server Boosts [ 1 month ]",
       "price": null,
       "currency": "USD",
       "deliverables_type": "serials",
@@ -5802,7 +5820,7 @@
           "product_id": 694922,
           "name": "Product",
           "description": null,
-          "price": "5.99",
+          "price": "1.00",
           "price_slash": null,
           "quantity_min": 1,
           "quantity_max": null,
@@ -5813,7 +5831,341 @@
           "redirect_url": null,
           "stock": 15680,
           "instructions": null,
-          "disabled_payment_method_ids": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            90846,
+            106655,
+            107836,
+            108222,
+            125604
+          ],
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 879224,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-24T01:08:47.000000Z",
+          "updated_at": "2026-04-24T01:08:47.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/879224.webp",
+          "pivot": {
+            "product_id": 694922,
+            "image_id": 879224,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 44567,
+        "name": "Discord Products"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 694924,
+      "salt": "afde2d1c85389",
+      "path": "4x-server-boosts-1-month-",
+      "name": "4x Server Boosts [ 1 month ]",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 44567,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1107058,
+          "product_id": 694924,
+          "name": "Product",
+          "description": null,
+          "price": "1.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            90846,
+            106655,
+            107836,
+            108222,
+            125604
+          ],
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 879224,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-24T01:08:47.000000Z",
+          "updated_at": "2026-04-24T01:08:47.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/879224.webp",
+          "pivot": {
+            "product_id": 694924,
+            "image_id": 879224,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 44567,
+        "name": "Discord Products"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 694925,
+      "salt": "3f908504dfa86",
+      "path": "6x-server-boosts-1-month-",
+      "name": "6x Server Boosts [ 1 month ]",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 44567,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1107059,
+          "product_id": 694925,
+          "name": "Product",
+          "description": null,
+          "price": "2.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            90846,
+            106655,
+            107836,
+            108222,
+            125604
+          ],
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 879224,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-24T01:08:47.000000Z",
+          "updated_at": "2026-04-24T01:08:47.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/879224.webp",
+          "pivot": {
+            "product_id": 694925,
+            "image_id": 879224,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 44567,
+        "name": "Discord Products"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 694926,
+      "salt": "e12ae8e6f2e38",
+      "path": "8x-server-boosts-1-month-",
+      "name": "8x Server Boosts [ 1 month ]",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 44567,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1107060,
+          "product_id": 694926,
+          "name": "Product",
+          "description": null,
+          "price": "3.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            90846,
+            106655,
+            107836,
+            108222,
+            125604
+          ],
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 879224,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-24T01:08:47.000000Z",
+          "updated_at": "2026-04-24T01:08:47.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/879224.webp",
+          "pivot": {
+            "product_id": 694926,
+            "image_id": 879224,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 44567,
+        "name": "Discord Products"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 694927,
+      "salt": "b4fb447035caf",
+      "path": "10x-server-boosts-1-month-",
+      "name": "10x Server Boosts [ 1 month ]",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 44567,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1107061,
+          "product_id": 694927,
+          "name": "Product",
+          "description": null,
+          "price": "5.00",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            90846,
+            106655,
+            107836,
+            108222,
+            125604
+          ],
+          "order": 0
+        }
+      ],
+      "images": [],
+      "group": {
+        "id": 44567,
+        "name": "Discord Products"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 694929,
+      "salt": "b316c6b147987",
+      "path": "10x-server-boosts-1-month-",
+      "name": "10x Server Boosts [ 1 month ]",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 44567,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1107063,
+          "product_id": 694929,
+          "name": "Product",
+          "description": null,
+          "price": "5.00",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            90846,
+            106655,
+            107836,
+            108222,
+            125604
+          ],
           "order": 0
         }
       ],
@@ -5826,11 +6178,11 @@
       "pinned": false
     }
   ],
-  "total": 99,
+  "total": 104,
   "shop": {
     "name": "blushop",
     "subdomain": "blushop",
     "url": "https://shop.blushop.net"
   },
-  "updated_at": "2026-04-24T01:08:32.795Z"
+  "updated_at": "2026-04-24T01:13:32.727Z"
 }
