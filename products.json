@@ -5738,15 +5738,15 @@
       "pinned": false
     },
     {
-      "id": 694916,
-      "salt": "1f1fa5ba5323b",
-      "path": "robux",
-      "name": "ROBUX",
+      "id": 694920,
+      "salt": "931fac35e23b2",
+      "path": "1-million-coins-fish-it",
+      "name": "1 Million Coins > Fish It",
       "price": null,
       "currency": "USD",
       "deliverables_type": "serials",
       "stock": null,
-      "group_id": 98518,
+      "group_id": 98112,
       "category_id": null,
       "type": "variant",
       "visibility": "public",
@@ -5754,11 +5754,11 @@
       "stock_count": 15680,
       "variants": [
         {
-          "id": 1107050,
-          "product_id": 694916,
+          "id": 1107054,
+          "product_id": 694920,
           "name": "Product",
           "description": null,
-          "price": "6.50",
+          "price": "1.00",
           "price_slash": null,
           "quantity_min": 1,
           "quantity_max": null,
@@ -5773,35 +5773,64 @@
           "order": 0
         }
       ],
-      "images": [
+      "images": [],
+      "group": {
+        "id": 98112,
+        "name": "Fish It"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 694922,
+      "salt": "d0fcad856afdc",
+      "path": "14x-server-boosts-1-month-",
+      "name": "14x Server Boosts [ 1 month ]",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 44567,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
         {
-          "id": 879210,
-          "cloudflare_image_id": null,
-          "created_at": "2026-04-24T00:50:02.000000Z",
-          "updated_at": "2026-04-24T00:50:02.000000Z",
-          "deleted_at": null,
-          "shop_id": 143421,
-          "url": "https://api.sellauth.com/storage/images/879210.webp",
-          "pivot": {
-            "product_id": 694916,
-            "image_id": 879210,
-            "order": 0
-          }
+          "id": 1107056,
+          "product_id": 694922,
+          "name": "Product",
+          "description": null,
+          "price": "5.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
         }
       ],
+      "images": [],
       "group": {
-        "id": 98518,
-        "name": "Roblox Items"
+        "id": 44567,
+        "name": "Discord Products"
       },
       "category": null,
       "pinned": false
     }
   ],
-  "total": 98,
+  "total": 99,
   "shop": {
     "name": "blushop",
     "subdomain": "blushop",
     "url": "https://shop.blushop.net"
   },
-  "updated_at": "2026-04-24T01:03:33.013Z"
+  "updated_at": "2026-04-24T01:08:32.795Z"
 }
