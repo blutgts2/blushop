@@ -6322,7 +6322,16 @@
           "redirect_url": null,
           "stock": 47040,
           "instructions": null,
-          "disabled_payment_method_ids": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            90846,
+            106655,
+            107836,
+            108222,
+            125604
+          ],
           "order": 0
         }
       ],
@@ -6348,13 +6357,81 @@
       },
       "category": null,
       "pinned": false
+    },
+    {
+      "id": 695446,
+      "salt": "87cd95b7eef75",
+      "path": "lifetime-netflix",
+      "name": "LIFETIME NETFLIX",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 94497,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 47040,
+      "variants": [
+        {
+          "id": 1108224,
+          "product_id": 695446,
+          "name": "Product",
+          "description": null,
+          "price": "1.00",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 47040,
+          "instructions": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            90846,
+            106655,
+            107836,
+            108222,
+            125604
+          ],
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 880322,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-24T17:51:04.000000Z",
+          "updated_at": "2026-04-24T17:51:04.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/880322.webp",
+          "pivot": {
+            "product_id": 695446,
+            "image_id": 880322,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 94497,
+        "name": "Streaming Service's"
+      },
+      "category": null,
+      "pinned": false
     }
   ],
-  "total": 106,
+  "total": 107,
   "shop": {
     "name": "blushop",
     "subdomain": "blushop",
     "url": "https://shop.blushop.net"
   },
-  "updated_at": "2026-04-24T17:48:35.954Z"
+  "updated_at": "2026-04-24T17:53:37.315Z"
 }
