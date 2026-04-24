@@ -5655,7 +5655,22 @@
           "order": 0
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "id": 879216,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-24T00:59:22.000000Z",
+          "updated_at": "2026-04-24T00:59:22.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/879216.webp",
+          "pivot": {
+            "product_id": 694913,
+            "image_id": 879216,
+            "order": 0
+          }
+        }
+      ],
       "group": {
         "id": 98125,
         "name": "DonutSMP"
@@ -5666,8 +5681,8 @@
     {
       "id": 694914,
       "salt": "f8735836f356e",
-      "path": "skeleton-spawner",
-      "name": "Skeleton Spawner",
+      "path": "elytra",
+      "name": "Elytra",
       "price": null,
       "currency": "USD",
       "deliverables_type": "serials",
@@ -5684,9 +5699,9 @@
           "product_id": 694914,
           "name": "Product",
           "description": null,
-          "price": "0.75",
+          "price": "29.98",
           "price_slash": null,
-          "quantity_min": 2,
+          "quantity_min": 1,
           "quantity_max": null,
           "volume_discounts": [],
           "disable_volume_discounts_if_coupon": false,
@@ -5699,20 +5714,94 @@
           "order": 0
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "id": 879214,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-24T00:58:39.000000Z",
+          "updated_at": "2026-04-24T00:58:39.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/879214.webp",
+          "pivot": {
+            "product_id": 694914,
+            "image_id": 879214,
+            "order": 0
+          }
+        }
+      ],
       "group": {
         "id": 98125,
         "name": "DonutSMP"
       },
       "category": null,
       "pinned": false
+    },
+    {
+      "id": 694916,
+      "salt": "1f1fa5ba5323b",
+      "path": "robux",
+      "name": "ROBUX",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 98518,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 15680,
+      "variants": [
+        {
+          "id": 1107050,
+          "product_id": 694916,
+          "name": "Product",
+          "description": null,
+          "price": "6.50",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 15680,
+          "instructions": null,
+          "disabled_payment_method_ids": null,
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 879210,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-24T00:50:02.000000Z",
+          "updated_at": "2026-04-24T00:50:02.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/879210.webp",
+          "pivot": {
+            "product_id": 694916,
+            "image_id": 879210,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 98518,
+        "name": "Roblox Items"
+      },
+      "category": null,
+      "pinned": false
     }
   ],
-  "total": 97,
+  "total": 98,
   "shop": {
     "name": "blushop",
     "subdomain": "blushop",
     "url": "https://shop.blushop.net"
   },
-  "updated_at": "2026-04-24T00:58:32.581Z"
+  "updated_at": "2026-04-24T01:03:33.013Z"
 }
