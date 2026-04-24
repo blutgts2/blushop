@@ -548,13 +548,13 @@
     {
       "id": 663144,
       "salt": "0ace7b2e8b911",
-      "path": "south-park-pack-owned-4000-vbuck-pack-instant-delivery",
-      "name": "South Park Pack > OWNED 4000 vbuck PACK > Instant Delivery",
+      "path": "fortnite-south-park-pack",
+      "name": "Fortnite South Park Pack",
       "price": null,
       "currency": "USD",
       "deliverables_type": "serials",
       "stock": null,
-      "group_id": 94434,
+      "group_id": 43553,
       "category_id": null,
       "type": "variant",
       "visibility": "public",
@@ -598,8 +598,8 @@
         }
       ],
       "group": {
-        "id": 94434,
-        "name": "Fortnite"
+        "id": 43553,
+        "name": "Game Accounts"
       },
       "category": null,
       "pinned": false
@@ -1498,7 +1498,7 @@
       "currency": "USD",
       "deliverables_type": "serials",
       "stock": null,
-      "group_id": 75043,
+      "group_id": 43553,
       "category_id": null,
       "type": "variant",
       "visibility": "public",
@@ -1542,8 +1542,8 @@
         }
       ],
       "group": {
-        "id": 75043,
-        "name": "Fivem"
+        "id": 43553,
+        "name": "Game Accounts"
       },
       "category": null,
       "pinned": false
@@ -6433,5 +6433,5 @@
     "subdomain": "blushop",
     "url": "https://shop.blushop.net"
   },
-  "updated_at": "2026-04-24T17:53:37.315Z"
+  "updated_at": "2026-04-24T17:58:35.917Z"
 }
