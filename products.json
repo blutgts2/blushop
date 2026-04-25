@@ -2464,8 +2464,8 @@
       "category_id": null,
       "type": "variant",
       "visibility": "public",
-      "products_sold": 0,
-      "stock_count": 90,
+      "products_sold": 1,
+      "stock_count": 89,
       "variants": [
         {
           "id": 1048436,
@@ -2481,7 +2481,7 @@
           "serial_selection_method": "last",
           "dynamic_url": null,
           "redirect_url": null,
-          "stock": 90,
+          "stock": 89,
           "instructions": null,
           "disabled_payment_method_ids": null,
           "order": 0
@@ -6694,5 +6694,5 @@
     "subdomain": "blushop",
     "url": "https://shop.blushop.net"
   },
-  "updated_at": "2026-04-25T02:33:37.692Z"
+  "updated_at": "2026-04-25T02:38:38.468Z"
 }
