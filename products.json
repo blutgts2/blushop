@@ -2531,8 +2531,8 @@
           "product_id": 663591,
           "name": "Product",
           "description": null,
-          "price": "19.99",
-          "price_slash": null,
+          "price": "9.99",
+          "price_slash": "19.99",
           "quantity_min": 1,
           "quantity_max": null,
           "volume_discounts": [],
@@ -2590,8 +2590,8 @@
           "product_id": 663593,
           "name": "Product",
           "description": null,
-          "price": "19.99",
-          "price_slash": null,
+          "price": "9.99",
+          "price_slash": "19.99",
           "quantity_min": 1,
           "quantity_max": null,
           "volume_discounts": [],
@@ -6492,5 +6492,5 @@
     "subdomain": "blushop",
     "url": "https://shop.blushop.net"
   },
-  "updated_at": "2026-04-24T23:58:38.133Z"
+  "updated_at": "2026-04-25T00:03:37.810Z"
 }
