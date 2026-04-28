@@ -6963,8 +6963,8 @@
     {
       "id": 700001,
       "salt": "bb9439bc5e4fd",
-      "path": "pink-denim-tears",
-      "name": "Pink Denim Tears Hoodie",
+      "path": "lv-belt",
+      "name": "LV Belt",
       "price": null,
       "currency": "USD",
       "deliverables_type": "serials",
@@ -6979,9 +6979,9 @@
         {
           "id": 1117477,
           "product_id": 700001,
-          "name": "Pink denim tears",
+          "name": "LV Belt Checkered",
           "description": null,
-          "price": "79.99",
+          "price": "89.99",
           "price_slash": null,
           "quantity_min": 1,
           "quantity_max": null,
@@ -7008,7 +7008,22 @@
           "order": 0
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "id": 887046,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-28T18:29:11.000000Z",
+          "updated_at": "2026-04-28T18:29:11.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/887046.webp",
+          "pivot": {
+            "product_id": 700001,
+            "image_id": 887046,
+            "order": 0
+          }
+        }
+      ],
       "group": {
         "id": 99084,
         "name": "Clothing"
@@ -7023,5 +7038,5 @@
     "subdomain": "blushop",
     "url": "https://blushop.net"
   },
-  "updated_at": "2026-04-28T18:28:34.182Z"
+  "updated_at": "2026-04-28T18:33:32.706Z"
 }
