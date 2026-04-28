@@ -6893,7 +6893,7 @@
       "id": 699981,
       "salt": "951de98c2c005",
       "path": "pink-denim-tears",
-      "name": "Pink Denim Tears",
+      "name": "Pink Denim Tears Hoodie",
       "price": null,
       "currency": "USD",
       "deliverables_type": "serials",
@@ -6959,13 +6959,69 @@
       },
       "category": null,
       "pinned": false
+    },
+    {
+      "id": 700001,
+      "salt": "bb9439bc5e4fd",
+      "path": "pink-denim-tears",
+      "name": "Pink Denim Tears Hoodie",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 99084,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 100,
+      "variants": [
+        {
+          "id": 1117477,
+          "product_id": 700001,
+          "name": "Pink denim tears",
+          "description": null,
+          "price": "79.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": null,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 100,
+          "instructions": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            106655,
+            107836,
+            108222,
+            125604,
+            160178,
+            160181,
+            174152,
+            174153
+          ],
+          "order": 0
+        }
+      ],
+      "images": [],
+      "group": {
+        "id": 99084,
+        "name": "Clothing"
+      },
+      "category": null,
+      "pinned": false
     }
   ],
-  "total": 113,
+  "total": 114,
   "shop": {
     "name": "blushop",
     "subdomain": "blushop",
     "url": "https://blushop.net"
   },
-  "updated_at": "2026-04-28T18:23:32.753Z"
+  "updated_at": "2026-04-28T18:28:34.182Z"
 }
