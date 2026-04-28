@@ -6424,7 +6424,19 @@
           "redirect_url": null,
           "stock": 100,
           "instructions": null,
-          "disabled_payment_method_ids": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            106655,
+            107836,
+            108222,
+            125604,
+            160178,
+            160181,
+            174152,
+            174153
+          ],
           "order": 0
         }
       ],
@@ -6483,7 +6495,19 @@
           "redirect_url": null,
           "stock": 100,
           "instructions": null,
-          "disabled_payment_method_ids": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            106655,
+            107836,
+            108222,
+            125604,
+            160178,
+            160181,
+            174152,
+            174153
+          ],
           "order": 0
         }
       ],
@@ -6542,7 +6566,19 @@
           "redirect_url": null,
           "stock": 100,
           "instructions": null,
-          "disabled_payment_method_ids": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            106655,
+            107836,
+            108222,
+            125604,
+            160178,
+            160181,
+            174152,
+            174153
+          ],
           "order": 0
         }
       ],
@@ -6572,8 +6608,8 @@
     {
       "id": 699963,
       "salt": "508fc88597119",
-      "path": "white-red-sp5der-hoodie",
-      "name": "White & Red Sp5der Hoodie",
+      "path": "blue-yellow-sp5der-hoodie",
+      "name": "Blue & Yellow Sp5der Hoodie",
       "price": null,
       "currency": "USD",
       "deliverables_type": "serials",
@@ -6588,7 +6624,7 @@
         {
           "id": 1117422,
           "product_id": 699963,
-          "name": "White & Red hoodie",
+          "name": "Blue & Yellow hoodie",
           "description": null,
           "price": "84.99",
           "price_slash": null,
@@ -6601,11 +6637,180 @@
           "redirect_url": null,
           "stock": 100,
           "instructions": null,
-          "disabled_payment_method_ids": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            106655,
+            107836,
+            108222,
+            125604,
+            160178,
+            160181,
+            174152,
+            174153
+          ],
           "order": 0
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "id": 886951,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-28T17:38:39.000000Z",
+          "updated_at": "2026-04-28T17:38:39.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/886951.webp",
+          "pivot": {
+            "product_id": 699963,
+            "image_id": 886951,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 99084,
+        "name": "Clothing"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 699969,
+      "salt": "76f64cef5a74d",
+      "path": "green-sp5der-pants",
+      "name": "Green Sp5der Pants",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 99084,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 100,
+      "variants": [
+        {
+          "id": 1117429,
+          "product_id": 699969,
+          "name": "Green Sp5der Pants",
+          "description": null,
+          "price": "84.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": 1,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 100,
+          "instructions": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            106655,
+            107836,
+            108222,
+            125604,
+            160178,
+            160181,
+            174152,
+            174153
+          ],
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 886946,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-28T17:38:38.000000Z",
+          "updated_at": "2026-04-28T17:38:38.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/886946.webp",
+          "pivot": {
+            "product_id": 699969,
+            "image_id": 886946,
+            "order": 0
+          }
+        }
+      ],
+      "group": {
+        "id": 99084,
+        "name": "Clothing"
+      },
+      "category": null,
+      "pinned": false
+    },
+    {
+      "id": 699971,
+      "salt": "0ab084a3c2165",
+      "path": "yellow-sp5der-hoodie",
+      "name": "Yellow Sp5der Hoodie",
+      "price": null,
+      "currency": "USD",
+      "deliverables_type": "serials",
+      "stock": null,
+      "group_id": 99084,
+      "category_id": null,
+      "type": "variant",
+      "visibility": "public",
+      "products_sold": 0,
+      "stock_count": 100,
+      "variants": [
+        {
+          "id": 1117438,
+          "product_id": 699971,
+          "name": "Yellow Sp5der Hoodie",
+          "description": null,
+          "price": "84.99",
+          "price_slash": null,
+          "quantity_min": 1,
+          "quantity_max": 1,
+          "volume_discounts": [],
+          "disable_volume_discounts_if_coupon": false,
+          "serial_selection_method": "last",
+          "dynamic_url": null,
+          "redirect_url": null,
+          "stock": 100,
+          "instructions": null,
+          "disabled_payment_method_ids": [
+            90472,
+            90473,
+            90491,
+            106655,
+            107836,
+            108222,
+            125604,
+            160178,
+            160181,
+            174152,
+            174153
+          ],
+          "order": 0
+        }
+      ],
+      "images": [
+        {
+          "id": 886947,
+          "cloudflare_image_id": null,
+          "created_at": "2026-04-28T17:38:38.000000Z",
+          "updated_at": "2026-04-28T17:38:38.000000Z",
+          "deleted_at": null,
+          "shop_id": 143421,
+          "url": "https://api.sellauth.com/storage/images/886947.webp",
+          "pivot": {
+            "product_id": 699971,
+            "image_id": 886947,
+            "order": 0
+          }
+        }
+      ],
       "group": {
         "id": 99084,
         "name": "Clothing"
@@ -6614,11 +6819,11 @@
       "pinned": false
     }
   ],
-  "total": 109,
+  "total": 111,
   "shop": {
     "name": "blushop",
     "subdomain": "blushop",
     "url": "https://blushop.net"
   },
-  "updated_at": "2026-04-28T18:08:32.903Z"
+  "updated_at": "2026-04-28T18:13:32.880Z"
 }
