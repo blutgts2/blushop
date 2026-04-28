@@ -200,7 +200,7 @@
       "currency": "USD",
       "deliverables_type": "serials",
       "stock": null,
-      "group_id": 94432,
+      "group_id": 99093,
       "category_id": null,
       "type": "variant",
       "visibility": "public",
@@ -244,8 +244,8 @@
         }
       ],
       "group": {
-        "id": 94432,
-        "name": "Fisch"
+        "id": 99093,
+        "name": "Roblox"
       },
       "category": null,
       "pinned": false
@@ -377,7 +377,7 @@
       "currency": "USD",
       "deliverables_type": "serials",
       "stock": null,
-      "group_id": 75203,
+      "group_id": 99093,
       "category_id": null,
       "type": "variant",
       "visibility": "public",
@@ -421,8 +421,8 @@
         }
       ],
       "group": {
-        "id": 75203,
-        "name": "Pet Simulator 99"
+        "id": 99093,
+        "name": "Roblox"
       },
       "category": null,
       "pinned": false
@@ -436,7 +436,7 @@
       "currency": "USD",
       "deliverables_type": "serials",
       "stock": null,
-      "group_id": 75203,
+      "group_id": 99093,
       "category_id": null,
       "type": "variant",
       "visibility": "public",
@@ -480,8 +480,8 @@
         }
       ],
       "group": {
-        "id": 75203,
-        "name": "Pet Simulator 99"
+        "id": 99093,
+        "name": "Roblox"
       },
       "category": null,
       "pinned": false
@@ -1557,7 +1557,7 @@
       "currency": "USD",
       "deliverables_type": "serials",
       "stock": null,
-      "group_id": 75203,
+      "group_id": 99093,
       "category_id": null,
       "type": "variant",
       "visibility": "public",
@@ -1601,8 +1601,8 @@
         }
       ],
       "group": {
-        "id": 75203,
-        "name": "Pet Simulator 99"
+        "id": 99093,
+        "name": "Roblox"
       },
       "category": null,
       "pinned": false
@@ -4407,7 +4407,7 @@
       "currency": "USD",
       "deliverables_type": "serials",
       "stock": null,
-      "group_id": 94432,
+      "group_id": 99093,
       "category_id": null,
       "type": "variant",
       "visibility": "public",
@@ -4451,8 +4451,8 @@
         }
       ],
       "group": {
-        "id": 94432,
-        "name": "Fisch"
+        "id": 99093,
+        "name": "Roblox"
       },
       "category": null,
       "pinned": false
@@ -4997,7 +4997,7 @@
       "currency": "USD",
       "deliverables_type": "serials",
       "stock": null,
-      "group_id": 75203,
+      "group_id": 99093,
       "category_id": null,
       "type": "variant",
       "visibility": "public",
@@ -5041,8 +5041,8 @@
         }
       ],
       "group": {
-        "id": 75203,
-        "name": "Pet Simulator 99"
+        "id": 99093,
+        "name": "Roblox"
       },
       "category": null,
       "pinned": false
@@ -5056,7 +5056,7 @@
       "currency": "USD",
       "deliverables_type": "serials",
       "stock": null,
-      "group_id": 98112,
+      "group_id": 99093,
       "category_id": null,
       "type": "variant",
       "visibility": "public",
@@ -5100,8 +5100,8 @@
         }
       ],
       "group": {
-        "id": 98112,
-        "name": "Fish It"
+        "id": 99093,
+        "name": "Roblox"
       },
       "category": null,
       "pinned": false
@@ -7038,5 +7038,5 @@
     "subdomain": "blushop",
     "url": "https://blushop.net"
   },
-  "updated_at": "2026-04-28T18:33:32.706Z"
+  "updated_at": "2026-04-28T18:38:32.999Z"
 }
